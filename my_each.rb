@@ -1,4 +1,5 @@
 def my_each(collection) # put argument(s) here
+  if 
   i = 0
   
   while i < array.length
